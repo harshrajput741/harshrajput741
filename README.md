@@ -15,8 +15,8 @@ I turn raw data into meaningful insights and build real-world data projects.
 
 * 📌 Netflix Content Analysis
 * 📌 Airline Flights Data Analysis
-* 📌 E-commerce Sales Insights
-* 📌 Blinkit Data Analysis
+* 📌 Stock-Market-Sentiment-Analysis
+* 📌 Digital Bank Simulation
 
 ## 🔥 Currently Building
 
