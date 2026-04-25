@@ -20,8 +20,8 @@ I turn raw data into meaningful insights and build real-world data projects.
 
 ## 🔥 Currently Building
 
-AI-powered Data Analyst system (auto-clean + insights + chatbot)
+TATTVA AI-Powered Data Analyst System (auto-clean + insights + chatbot give advice and ideas)
 
 ## 📫 Connect
-* Gmail: Harshrajput74177@gmail.com
+* Gmail: [Harshrajput74177@gmail.com]
 * LinkedIn: [https://www.linkedin.com/in/harsh-rajput-7281772a8/]
