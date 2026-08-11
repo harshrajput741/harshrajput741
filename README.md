@@ -6,14 +6,14 @@ I turn raw data into meaningful insights and build real-world data projects.
 
 ## 🧠 Skills
 
-* Programming: Python, SQL, JavaScript
+* Programming: Python, SQL, HTML, CSS
 * Data Analysis: Pandas, NumPy, Power Query
 * Data Visualization: Power BI, Tableau, Matplotlib, Plotly, Seaborn
 * Machine Learning: Scikit-learn, Regression, Classification, Forecasting
 * Database: MySQL, SQLite
-* Excel: Advanced Excel, Pivot Tables, XLOOKUP, VBA, Data Cleaning
+* Excel: Advanced Excel, Pivot Tables, XLOOKUP, Data Cleaning, Macros
 * Business Intelligence: KPI Dashboards, DAX, ETL Pipelines
-* AI Tools: Hugging Face, Ollama
+* AI Tools: Hugging Face, Ollama, Claude, ChatGPT
 * Version Control: Git, GitHub
 * Deployment: Netlify, Streamlit Cloud, Vercel, Render, AWS
 
